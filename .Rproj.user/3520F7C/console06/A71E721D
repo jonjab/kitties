@@ -67,4 +67,7 @@ From https://github.com/jonjab/kitties
 ]0;~/Desktop/carpentry/datastructuresMIL01-S6AF:datastructures jjablonski$ ls
 README.md	rEpisode4.R	rEpisode5.R
 ]0;~/Desktop/carpentry/datastructuresMIL01-S6AF:datastructures jjablonski$ mkdir data
-]0;~/Desktop/carpentry/datastructuresMIL01-S6AF:datastructures jjablonski$ 
+[KMIL01-S6AF:datastructures jjablonski$ ls
+README.md		datastructures.Rproj	rEpisode5.R
+data			rEpisode4.R
+]0;~/Desktop/carpentry/datastructuresMIL01-S6AF:datastructures jjablonski$ git add .
